@@ -1,4 +1,4 @@
-# %СЮДА_ВСТАВИТЬ_ВАШ_САБДОМЕН/api/marketplace%
+[# %СЮДА_ВСТАВИТЬ_ВАШ_САБДОМЕН/api/marketplace%](https://hyvka.kitek-pg.ru/api/marketplace/items)
 
 # Лабораторная: Деплой API
 
